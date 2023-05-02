@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp3.MainPage">
+
+    <ScrollView x:Name="Scrollv">
+
+        <StackLayout x:Name="stackL" 
+                         Margin="13,10,0,0">
+            <Button Clicked="Button_Clicked" Text="Scroll" />
+
+            <Label x:Name="label1" Text="Welcome to Xamarin.Forms!" />
+            <Label x:Name="label2" Text="Welcome to Xamarin.Forms!Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger." />
+            <Label x:Name="label3" Text="Welcome to Xamarin.Forms!Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger." />
+            <Label x:Name="label4" Text="Welcome Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger. to Xamarin.Forms!" />
+            <Label x:Name="label5" Text="Welcome  Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger. to Xamarin.Forms!" />
+            <Label x:Name="label6" Text="Welcome Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger. to Xamarin.Forms!" />
+            <Label x:Name="label7" Text="Welcome  Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger. to Xamarin.Forms!" />
+            <Label x:Name="label8" Text="Welcome to XamarinHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger..Forms!" />
+            <Label x:Name="label9" Text="Welcome to Xamarin.FHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.orms!" />
+            <Label x:Name="label10" Text="WelcHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.ome to Xamarin.Forms!" />
+            <Label x:Name="label11" Text="WelcoHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.me to Xamarin.Forms!" />
+            <Label x:Name="label12" Text="WelcomHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.e to Xamarin.Forms!" />
+            <Label x:Name="label13" Text="WelcomeHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger. to Xamarin.Forms!" />
+            <Label x:Name="label14" Text="Welcome Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.to Xamarin.Forms!" />
+            <Label x:Name="label15" Text="Welcome toHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger. Xamarin.Forms!" />
+            <Label x:Name="label16" Text="Welcome to Hamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.Xamarin.Forms!" />
+            <Label x:Name="label17" Text="Welcome to XaHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.marin.Forms!" />
+            <Label x:Name="label18" Text="Welcome to XamHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.arin.Forms!" />
+            <Label x:Name="label19" Text="Welcome to XamaHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.rin.Forms!" />
+            <Label x:Name="label20" Text="Welcome to XamarHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.in.Forms!" />
+            <Label x:Name="label21" Text="Welcome to XamariHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.n.Forms!" />
+            <Label x:Name="label22" Text="Welcome to Xamarin.ForHamburger accompanied with melted cheese. The term itself is a portmanteau of the words cheese and hamburger.ms!" />
+        </StackLayout>
+
+    </ScrollView>
+
+
+</ContentPage>
